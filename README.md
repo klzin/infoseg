@@ -2,15 +2,13 @@
 
 ```
 🟢 SALVANDO EM TXT AS LIVES
+🟢 NÃO USA PROXY
+🟢 TESTE RAPIDO
 🟢 NAO TESTA SE TEM ACESSO AO INFOSEG, SOMENTE AO SINESP
 ```
-<br>
 
 # Execultar
 
-
 ```
-py main.py
+💻: py main.py
 ```
-
-<img src="https://github.com/klzin/infoseg/blob/main/execultar.png" width="300" height="200">
